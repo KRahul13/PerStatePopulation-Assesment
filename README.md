@@ -1,8 +1,24 @@
 # PerStatePopulation-Assesment
 
+Install:
+==========
 
-s_name 	2013 	2014 	2015 	2016 	2017 	2018 	2019 	2019 Factors
-Alabama 	4833722 	4849377 (0.32%) 	4858979 (0.2%) 	4863300 (0.09%) 	4874747 (0.24%) 	4887871 (0.27%) 	4903185 (0.31%) 	3;5;7;7;7;953
-Alaska 	735132 	736732 (0.22%) 	738432 (0.23%) 	741894 (0.47%) 	739795 (-0.28%) 	737438 (-0.32%) 	731545 (-0.8%) 	5;146309
-Arizona 	6626624 	6731484 (1.58%) 	6828065 (1.43%) 	6931071 (1.51%) 	7016270 (1.23%) 	7171646 (2.21%) 	7278717 (1.49%) 	3;1019;2381
-Arkansas 	2959373 	2966369 (0.24%) 	2978204 (0.4%) 	2988248 (0.34%) 	3004279 (0.54%) 	3013825 (0.32%) 	3017804 (0.13%) 	2;2;754451
+-- Download or Clone the repository using git clone https://github.com/KRahul13/PerStatePopulation-Assesment
+-- The program needs Pandas and Requests libraries. These can be installed using the command pip install <package> on Linux.
+
+  
+  
+Run:
+==========
+
+-- The program can be run using the following command:
+      
+            $ python3 program.py
+  
+  
+  
+Population growth calculation:
+==================================
+  
+  growth = ((Current year - Previous year) / Previous Year) * 100
+  
