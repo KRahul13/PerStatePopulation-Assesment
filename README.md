@@ -3,15 +3,15 @@
 Install:
 ==========
 
--- Download or Clone the repository using git clone https://github.com/KRahul13/PerStatePopulation-Assesment
--- The program needs Pandas and Requests libraries. These can be installed using the command pip install <package> on Linux.
+- Download or Clone the repository using git clone https://github.com/KRahul13/PerStatePopulation-Assesment
+- The program needs Pandas and Requests libraries. These can be installed using the command pip install <package> on Linux.
 
   
   
 Run:
 ==========
 
--- The program can be run using the following command:
+- The program can be run using the following command:
       
             $ python3 program.py
   
@@ -20,5 +20,5 @@ Run:
 Population growth calculation:
 ==================================
   
-  growth = ((Current year - Previous year) / Previous Year) * 100
+- growth = ((Current year - Previous year) / Previous Year) * 100
   
