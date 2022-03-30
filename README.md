@@ -4,7 +4,8 @@ Install:
 ==========
 
 - Download or Clone the repository using git clone https://github.com/KRahul13/PerStatePopulation-Assesment
-- The program needs Pandas and Requests libraries. These can be installed using the command pip install <package> on Linux.
+- The program needs Pandas and Requests libraries. These can be installed using the command in Linux
+      $pip install <package> 
 
   
   
